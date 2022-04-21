@@ -44,9 +44,9 @@ sudo pacman -Sy
 
 ```bash
 
-git clone https://github.com/drcayber/payloadcyber
+git clone https://github.com/drcayber/payload
 
-cd payloadcyber
+cd payload
 
 sudo python3 install.py
 
