@@ -44,7 +44,7 @@ sudo pacman -Sy
 
 ```bash
 
-git clone https://github.com/cyhhorold/webcyber
+git clone https://github.com/drcayber/payloadcyber
 
 cd payloadcyber
 
