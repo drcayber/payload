@@ -19,7 +19,7 @@ Available Templates :
 * Kali , Parrot , BlackArch
 
 
-### Prerequisites for installation on Kali , Parrot , Ubuntu
+### Prerequisites for installation on Kali , Parrot , BlackArch
 
 ```bash
 
@@ -29,43 +29,24 @@ sudo apt-get upgrade
 
 sudo apt-get install git
 
-sudo apt-get install python
-
-sudo apt-get neofetch
 ```
-
 
 ## Installation orginal
 
-### / KaliLinux / Ubuntu / Parrot-OS
+### / KaliLinux / BlackArch / Parrot-OS
 
 ```bash
 
 git clone https://github.com/cyhhorold/webcyber
 
-cd webcyber
+cd payloadcyber
 
-sudo chmod +x install.sh
+sudo python3 install.py
 
-sudo bash install.sh
+cd PayloadCyber
 
-sudo python3 webcyber.py
+python3 payloads.py
 ```
-###  Termux
-
-```bash
-
-git clone https://github.com/cyhhorold/webcyber
-
-cd webcyber
-
-chmod +x install.sh
-
-bash install.sh
-
-python3 webcyber.py
-```
-
 
 ###  Follow us on
 
