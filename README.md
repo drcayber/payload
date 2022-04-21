@@ -1,6 +1,6 @@
 # Payload Cyber
 
-## Info tools
+## Tool Tips
 
 * Works under metasploit coverage
 
